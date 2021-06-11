@@ -3,6 +3,10 @@
    
     <router-view/>
      <loading  v-if="isLoad"/>
+
+
+
+     
   </div>
 </template>
 <script>
