@@ -2,8 +2,8 @@
   <div id="app" style="height:100%">
    
     <router-view/>
-     <loading  v-if="isLoad"/>   
-<div>11111</div>
+     
+
      <!-- <div>
        11111
      </div> -->
