@@ -2,11 +2,7 @@
   <div id="app" style="height:100%">
    
     <router-view/>
-     <loading  v-if="isLoad"/>
-
-
-
-     
+     <loading  v-if="isLoad"/>   
   </div>
 </template>
 <script>
